@@ -44,5 +44,6 @@
  
 </div>
 
+![Snake animation](https://github.com/adelfi172/adelfi172/blob/output/github-contribution-grid-snake.svg)
 
 
