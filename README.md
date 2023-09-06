@@ -18,5 +18,5 @@
  </p>
 
 <div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelfi172)](https://github.com/adelfi172/github-readme-stats)
+ [![Adelfi GitHub stats](https://github-readme-stats.vercel.app/api?username=adelfi172)](https://github.com/adelfi172/github-readme-stats)
 </div>
