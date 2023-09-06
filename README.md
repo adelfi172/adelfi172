@@ -12,7 +12,7 @@
   ·
   <a href="/docs/readme_en.md">English</a>
   ·
-  <a href="/docs/readme_hb.md">עִברִית</a>
+  <a href="/docs/readme_he.md">עִברִית</a>
   ·
   <a href="/docs/readme_de.md">Deutsch</a>
  </p>
