@@ -17,6 +17,8 @@
   <a href="/docs/readme_de.md">Deutsch</a>
  </p>
 
+[![Adelfi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelfi172)](https://github.com/adelfi172/github-readme-stats)
+
 <div>
- [![Adelfi GitHub stats](https://github-readme-stats.vercel.app/api?username=adelfi172)](https://github.com/adelfi172/github-readme-stats)
+ [![Adelfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelfi172)](https://github.com/adelfi172/github-readme-stats)
 </div>
